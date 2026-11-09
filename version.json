@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/BeatMario/google-maps-sync-release/releases/download/v1.0.0/GoogleMapsSync_Setup.exe",
-  "notes": "v1.0.0 정식 배포 및 원격 자동 업데이트 기능 탑재",
-  "published_at": "2026-11-09 14:10:04"
+  "version": "1.0.1",
+  "download_url": "https://github.com/BeatMario/google-maps-sync-release/releases/download/v1.0.1/GoogleMapsSync_Setup.exe",
+  "notes": "로그 간략히보기/자세히보기 기능 및 기본 로그 숨김 모드 추가",
+  "published_at": "2026-11-09 14:19:31"
 }
