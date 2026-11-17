@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/BeatMario/google-maps-sync-release/releases/download/v1.0.1/GoogleMapsSync_Setup.exe",
-  "notes": "로그 간략히보기/자세히보기 기능 및 기본 로그 숨김 모드 추가",
-  "published_at": "2026-11-09 14:19:31"
+  "version": "1.0.2",
+  "download_url": "https://github.com/BeatMario/google-maps-sync-release/releases/download/v1.0.2/GoogleMapsSync_Setup.exe",
+  "notes": "부팅 시 자동 실행(시작프로그램) 한글 경로 및 VBS 문법 오류 수정 (윈도우 표준 레지스트리 Run 방식으로 전환)",
+  "published_at": "2026-11-17 11:24:21"
 }
